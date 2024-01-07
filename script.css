@@ -1,0 +1,5 @@
+// Example JavaScript for interactive elements (expand as needed)
+document.addEventListener("DOMContentLoaded", function() {
+    // DOM is fully loaded, but maybe waiting on images & stylesheets
+    // Add any JS-driven interactivity here
+});
